@@ -1,0 +1,2 @@
+This is used for git pull command
+git pull -> used to retrive the changes in the github will occur in the locally cloned folder
